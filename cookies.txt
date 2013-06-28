@@ -1,0 +1,14 @@
+# Netscape HTTP Cookie File
+# http://www.netscape.com/newsref/std/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.mathtag.com	TRUE	/	FALSE	1383591699	uuid	5096bb7c-ac2d-20c7-e0a6-7e848bdcb598
+bugs.launchpad.net	FALSE	/	FALSE	2147443200	anon-buglist-fields	show_id=true&show_information_type=false&show_tag=false&show_reporter=false&show_importance=false&show_assignee=false&show_date_last_updated=true&show_datecreated=false&show_targetname=false&show_heat=false&show_milestone_name=false&show_status=true
+login.launchpad.net	FALSE	/	TRUE	1363149362	sessionid	fb5df100287ebbff844347c5acf446e4
+login.launchpad.net	FALSE	/	FALSE	1393389363	csrftoken	13d5e01d30bf025c8c2680ae72d74d44
+.launchpad.net	TRUE	/	TRUE	1393475866	lp	LdsC3I8UC-MnL.arkm1TUcIe5XEngHlqNwUOc4mf8stPMwHPR138-c
+bugs.launchpad.net	FALSE	/	FALSE	2147446800	mr-leexung-buglist-fields	show_id=true&show_information_type=false&show_tag=false&show_reporter=false&show_targetname=false&show_assignee=false&show_date_last_updated=true&show_datecreated=false&show_importance=false&show_heat=false&show_milestone_name=false&show_status=false
+.launchpad.net	TRUE	/	FALSE	1425741108	__utma	1.1874045620.1361891762.1362501655.1362669108.5
+.launchpad.net	TRUE	/	FALSE	1362670908	__utmb	1.1.10.1362669108
+.launchpad.net	TRUE	/	FALSE	0	__utmc	1
+.launchpad.net	TRUE	/	FALSE	1378437108	__utmz	1.1361891762.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
